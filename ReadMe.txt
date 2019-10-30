@@ -23,5 +23,5 @@ Notice that the order of the buttons is important.
 
 We hope that you will enjoy this software, 
 Wish you best regards, 
-Meitar & Liel.
+Liel & Meitar.
 Sapir Collage. 
