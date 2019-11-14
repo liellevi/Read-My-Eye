@@ -1,5 +1,8 @@
 Dear User,
 This is a manual for READMYEYE program.
+READMYEYE system produces medical diagnosis based on an iris image (Iridiology) which comes as user input
+Based on Image Processing technologies and Deep learning 
+
 To run READMYEYE, follow the next steps:
 
 Step 1:
